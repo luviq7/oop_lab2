@@ -16,7 +16,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/3.31.6/CMakeSystem.cmake"
+			"path" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/3.31.6/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -290,7 +290,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/3.31.6/CMakeCCompiler.cmake"
+			"path" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/3.31.6/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -539,7 +539,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
+			"path" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -683,7 +683,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/3.31.6/CMakeCCompiler.cmake"
+			"path" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/3.31.6/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -817,7 +817,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
+			"path" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -929,8 +929,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build",
-		"source" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode"
+		"build" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build",
+		"source" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/oop_lab2_prog"
 	},
 	"version" : 
 	{

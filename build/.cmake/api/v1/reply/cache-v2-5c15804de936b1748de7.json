@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build"
+			"value" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build/CMakeFiles/pkgRedirects"
+			"value" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode"
+			"value" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/oop_lab2_prog"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1167,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build"
+			"value" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/build"
 		},
 		{
 			"name" : "GTestProject_IS_TOP_LEVEL",
@@ -1191,7 +1191,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode"
+			"value" : "/Users/taraskabacok/Documents/ooplabs/oop_lab2/oop_lab2_prog"
 		},
 		{
 			"name" : "GTest_DIR",

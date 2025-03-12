@@ -1,4 +1,0 @@
-# ninja log v6
-1	35	1740731216811355659	CMakeFiles/runTests.dir/src/math_functions.cpp.o	83789f63a23d31cb
-1	634	1740731216811598488	CMakeFiles/runTests.dir/tests/math_functions_test.cpp.o	54c4962e7cd9b51d
-636	678	1740731217445991906	runTests	f8dfd1642d5beef7
