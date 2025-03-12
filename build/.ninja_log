@@ -1,0 +1,4 @@
+# ninja log v6
+1	60	1741731805653271815	CMakeFiles/runTests.dir/src/lab2.cpp.o	698dd77dd9e7554a
+1	630	1741731805653558848	CMakeFiles/runTests.dir/tests/tests.cpp.o	f306a2370b63202d
+632	677	1741731806284073665	runTests	ddb81d8d630b8e1e

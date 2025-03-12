@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/taraskabacok/Documents/ooplabs/2_vscode/build",
+  "command": "/usr/bin/clang++ -I/Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/src -isystem /opt/homebrew/include -Wall -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/runTests.dir/src/lab2.cpp.o -c /Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/src/lab2.cpp",
+  "file": "/Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/src/lab2.cpp",
+  "output": "CMakeFiles/runTests.dir/src/lab2.cpp.o"
+},
+{
+  "directory": "/Users/taraskabacok/Documents/ooplabs/2_vscode/build",
+  "command": "/usr/bin/clang++ -I/Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/src -isystem /opt/homebrew/include -Wall -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/runTests.dir/tests/tests.cpp.o -c /Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/tests/tests.cpp",
+  "file": "/Users/taraskabacok/Documents/ooplabs/2_vscode/oop_lab2_prog/tests/tests.cpp",
+  "output": "CMakeFiles/runTests.dir/tests/tests.cpp.o"
+}
+]

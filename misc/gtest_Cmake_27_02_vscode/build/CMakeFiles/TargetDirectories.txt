@@ -1,0 +1,3 @@
+/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build/CMakeFiles/runTests.dir
+/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build/CMakeFiles/edit_cache.dir
+/Users/taraskabacok/Documents/codemisc/2sem_1kurs/gtest_Cmake_27_02_vscode/build/CMakeFiles/rebuild_cache.dir
