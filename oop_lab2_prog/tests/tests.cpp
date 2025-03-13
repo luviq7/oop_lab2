@@ -26,6 +26,12 @@ TEST(ShiftLeft, TestValidInput) {
     EXPECT_EQ(ShiftLeft(0b1101, 36), ShiftLeft(0b1101, 4));
 }
 
+#ifndef NDEBUG
+TEST(ShiftLeft, TestAssertTrigger) {
+    EXPECT_DEATH(ShiftLeft(UINT_MAX + 1, 1), ".*");
+}
+#endif
+
 int main(int argc, char **argv) {
     ::testing::InitGoogleTest(&argc, argv);
     return RUN_ALL_TESTS();
