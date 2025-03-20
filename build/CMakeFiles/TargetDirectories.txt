@@ -1,0 +1,3 @@
+/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/runTests.dir
+/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/edit_cache.dir
+/Users/taraskabacok/Documents/ooplabs/oop_lab2/build/CMakeFiles/rebuild_cache.dir
